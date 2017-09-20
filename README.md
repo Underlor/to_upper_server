@@ -1,4 +1,3 @@
-# to_upper_server
 Зависимоcти: Python3, GCC.
 
 + Сборка: make в главной директории.
